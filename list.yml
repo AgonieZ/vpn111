@@ -1,0 +1,48 @@
+files:
+  - url: ""
+    time: 1640170859767.yml
+    name: 1222clash.yml.txt
+    selected:
+      - name: GLOBAL
+        now: 欧洲(欢迎订阅Youtube破解资源君)
+      - name: 🔰 节点选择
+        now: ♻️ 自动选择
+      - name: 🎥 NETFLIX
+        now: 🔰 节点选择
+      - name: ⛔️ 广告拦截
+        now: 🛑 全球拦截
+      - name: 🚫 运营劫持
+        now: 🛑 全球拦截
+      - name: 🌍 国外媒体
+        now: 🔰 节点选择
+      - name: 🌏 国内媒体
+        now: 🎯 全球直连
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 📲 电报信息
+        now: 🔰 节点选择
+      - name: 🍎 苹果服务
+        now: 🔰 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🔰 节点选择
+    mode: global
+    interval: 0
+  - time: 1640760444710.yml
+    name: Clash_1640760445.yaml
+    url: https://kcssr.best/link/hD3gcoopEonUnmpc?clash=1
+    selected:
+      - name: GLOBAL
+        now: 中继 新加坡 01
+      - name: 🍃 Proxies
+        now: ⭐️ Auto
+      - name: 🍂 Domestic
+        now: DIRECT
+      - name: ☁️ Others
+        now: 🍃 Proxies
+    interval: 0
+    mode: global
+index: 1
